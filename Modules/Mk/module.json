@@ -1,0 +1,13 @@
+{
+    "name": "Mk",
+    "alias": "mk",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Mk\\Providers\\MkServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

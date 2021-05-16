@@ -1,0 +1,13 @@
+{
+    "name": "Mng",
+    "alias": "mng",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Mng\\Providers\\MngServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
